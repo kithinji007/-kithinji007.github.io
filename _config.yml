@@ -1,0 +1,18 @@
+title: <p align="center"> Tony Kithinji </p>
+logo: "/logo.jpg?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  <p align="center">
+  <a href="https://linkedin.com/in/tony-kithinji/"><b>LinkedIn</a> |
+  <a href="https://github.com/kithinji007"><b>Github</a>
+  <a href="https://lnk.bio/kithinji"><b>Bio</a>
+  </p>
+  I am a skilled Data Analyst keen on designing sustainable solutions that will enhance business value by extracting valuable insights.
+  <br><br>
+  Proficiency working with SQL, Excel, Tableau, Power BI, and Python. Ready to leverage data analytics skills to solve problems by tackling new projects
+  <br><br>
+   
+  
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
+google_analytics: UA-000000-0 # your Google Analytics tracking ID here
