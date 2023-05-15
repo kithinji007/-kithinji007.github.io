@@ -9,10 +9,9 @@ description: > # your text below (remove <br> elements if you don't need line br
   I am a skilled Data Analyst keen on designing sustainable solutions that will enhance business value by extracting valuable insights.
   <br><br>
   Proficiency working with SQL, Excel, Tableau, Power BI, and Python. Ready to leverage data analytics skills to solve problems by tackling new projects
+  Recently I have been researching about using drones with computer vision in detecting objects and actions. 
   <br><br>
    
   
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme
+theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
